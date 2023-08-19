@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Квесты/Доставка для Адельберта.md",
+                "file": "Лор/Архонт.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Квесты/Доставка для Адельберта.md",
+                "file": "Лор/Архонт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Квесты/Доставка для Адельберта.md",
+                "file": "Лор/Архонт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Квесты/Доставка для Адельберта.md"
+                "file": "Лор/Архонт.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +147,7 @@
   },
   "active": "372cf54124be1072",
   "lastOpenFiles": [
+    "Квесты/Доставка для Адельберта.md",
     "Лор/События/Резня в Намбрии.md",
     "NPC/Отец Ллимик.md",
     "Партия/Тетис.md",
@@ -165,7 +165,6 @@
     "NPC/Хаб.md",
     "Места/Таверна \"Красный Плющ\".md",
     "NPC/Трактирщик Крамник \"Весельчак\".md",
-    "Квесты/Доставка для Адельберта.md",
     "Лор/Организации/Черная рука.md",
     "Хроника/Сессия 1 \"Восточное гостеприимство\".md",
     "Места/Дарвос.md",
