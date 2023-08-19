@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e5da8c21e1595d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c838eac01304fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372cf54124be1072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Квесты/Доставка для Адельберта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "044c01e0e3209e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "81102b1cbf7593f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b807a6ad168ceac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8940fa668689fc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3e629941298caee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "bfba07f850ab0242",
+    "type": "split",
+    "children": [
+      {
+        "id": "a74cec2b3e070037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0f3c768894416b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Квесты/Доставка для Адельберта.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af6cc1d5954088e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Квесты/Доставка для Адельберта.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71e22165893975c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b25945f0282ace85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Квесты/Доставка для Адельберта.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "372cf54124be1072",
+  "lastOpenFiles": [
+    "Лор/События/Резня в Намбрии.md",
+    "NPC/Отец Ллимик.md",
+    "Партия/Тетис.md",
+    "Партия/Афиира.md",
+    "Партия/Нимаэль.md",
+    "Партия/Астор.md",
+    "Партия/Азахал.md",
+    "NPC/Адельберт.md",
+    "NPC/Галиа.md",
+    "Pasted image 20230819110105.png",
+    "NPC/Ури Тусклый.md",
+    "Pasted image 20230819110037.png",
+    "Pasted image 20230819105923.png",
+    "Квесты/Хапнуть Хаба.md",
+    "NPC/Хаб.md",
+    "Места/Таверна \"Красный Плющ\".md",
+    "NPC/Трактирщик Крамник \"Весельчак\".md",
+    "Квесты/Доставка для Адельберта.md",
+    "Лор/Организации/Черная рука.md",
+    "Хроника/Сессия 1 \"Восточное гостеприимство\".md",
+    "Места/Дарвос.md",
+    "Лор/Наследия.md",
+    "Лор/Архонт.md",
+    "Лор/Организации/Орден Рэкета.md",
+    "Лор/Организации/Традиция.md",
+    "Места/Моррок.md",
+    "Лор/Организации/Смеющиеся крысы.md",
+    "Лор/Организации/Дом тумана.md",
+    "NPC/Силван Даскснерл.md",
+    "Места/Дарвос",
+    "Лор/События",
+    "Лор/Записи&Книги",
+    "Лор/Организации",
+    "Места",
+    "Лор/Губители",
+    "Лор/Боги",
+    "Лор",
+    "NPC",
+    "Хроника"
+  ]
+}
