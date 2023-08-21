@@ -8,30 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "372cf54124be1072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Места/Таверна Красный Плющ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51dccbe503e77e1a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "30b2b17b064a2093",
             "type": "leaf",
             "state": {
               "type": "diff-view",
@@ -42,12 +19,12 @@
             }
           },
           {
-            "id": "493c6a9ae67b56fe",
+            "id": "d702e08f3531c215",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".gitignore",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -184,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51dccbe503e77e1a",
+  "active": "d702e08f3531c215",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Места/Таверна Красный Плющ.md",
+    "conflict-files-obsidian-git.md",
     "Галея.md",
     "Git test.md",
     "Лор/События/Резня в Намбрии.md",
