@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хроника/Сессия 1 Восточное гостеприимство.md",
+                "file": "Партия/Тетис.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c02ad0cba354ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хроника/Сессия 1 Восточное гостеприимство.md",
+                "file": "Git test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Хроника/Сессия 1 Восточное гостеприимство.md",
+                "file": "Git test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хроника/Сессия 1 Восточное гостеприимство.md"
+                "file": "Git test.md"
               }
             }
           }
@@ -145,17 +158,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372cf54124be1072",
+  "active": "3c02ad0cba354ed7",
   "lastOpenFiles": [
     "Партия/Тетис.md",
-    "Партия/Азахал.md",
-    "Партия/Астор.md",
+    "Git test.md",
+    "NPC/Галиа.md",
+    "Pasted image 20230819110105.png",
+    "Pasted image 20230819110037.png",
+    "Pasted image 20230819105923.png",
+    "Галея.md",
+    "NPC/Адельберт.md",
     "Места/Таверна Красный Плющ.md",
     "Места/Моррок.md",
-    "Места/Дарвос.md",
-    "Лор/Наследия.md",
-    "Лор/Изис.md",
     "Лор/Архонт.md",
+    "Лор/Изис.md",
+    "Места/Дарвос.md",
+    "Хроника/Сессия 1 Восточное гостеприимство.md",
+    "Партия/Азахал.md",
+    "Партия/Астор.md",
+    "Лор/Наследия.md",
     "Лор/Организации/Черная рука.md",
     "Лор/Организации/Смеющиеся крысы.md",
     "Лор/Организации/Преторианцы Дарвоса.md",
@@ -164,18 +185,10 @@
     "Квесты/Доставка для Адельберта.md",
     "Квесты/Хапнуть Хаба.md",
     "NPC/Хаб.md",
-    "Галея.md",
-    "Pasted image 20230819110105.png",
-    "Pasted image 20230819110037.png",
-    "Pasted image 20230819105923.png",
     "Лор/События/Резня в Намбрии.md",
     "NPC/Трактирщик Крамник по прозвищу Весельчак.md",
-    "Хроника/Сессия 1 Восточное гостеприимство.md",
     "NPC/Отец Ллимик.md",
     "Партия/Афиира.md",
-    "Партия/Нимаэль.md",
-    "NPC/Адельберт.md",
-    "NPC/Галиа.md",
     "Места/Дарвос",
     "Лор/События",
     "Лор/Записи&Книги",
