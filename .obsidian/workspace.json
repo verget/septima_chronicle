@@ -11,10 +11,11 @@
             "id": "225f66652c24c458",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Лор/Организации/Смеющиеся крысы.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Лор/Организации/Смеющиеся крысы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Лор/Организации/Смеющиеся крысы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Лор/Организации/Смеющиеся крысы.md"
+              }
             }
           },
           {
@@ -132,12 +137,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,15 +156,18 @@
   },
   "active": "225f66652c24c458",
   "lastOpenFiles": [
+    "NPC/Трактирщик Крамник по прозвищу Весельчак.md",
+    "NPC/Хаб.md",
+    "Квесты/Хапнуть Хаба.md",
+    "Лор/Организации/Черная рука.md",
+    "Квесты/Доставка для Адельберта.md",
     "Лор/Организации/Преторианцы Дарвоса.md",
     "Лор/Организации/Орден Рэкета.md",
     "Лор/Организации/Дом тумана.md",
     "Места/Таверна Красный Плющ.md",
     "Лор/События/Резня в Намбрии.md",
-    "NPC/Трактирщик Крамник по прозвищу Весельчак.md",
     "Хроника/Сессия 1 Восточное гостеприимство.md",
     "Лор/Архонт.md",
-    "Квесты/Доставка для Адельберта.md",
     "NPC/Отец Ллимик.md",
     "Партия/Тетис.md",
     "Партия/Афиира.md",
@@ -172,9 +180,6 @@
     "NPC/Ури Тусклый.md",
     "Pasted image 20230819110037.png",
     "Pasted image 20230819105923.png",
-    "Квесты/Хапнуть Хаба.md",
-    "NPC/Хаб.md",
-    "Лор/Организации/Черная рука.md",
     "Места/Дарвос.md",
     "Лор/Наследия.md",
     "Лор/Организации/Традиция.md",
