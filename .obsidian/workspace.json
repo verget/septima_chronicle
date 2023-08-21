@@ -29,9 +29,20 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "30b2b17b064a2093",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51dccbe503e77e1a",
+  "active": "30b2b17b064a2093",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Места/Таверна Красный Плющ.md",
