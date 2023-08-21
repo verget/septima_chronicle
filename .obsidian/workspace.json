@@ -128,8 +128,17 @@
                 "file": "Места/Таверна Красный Плющ.md"
               }
             }
+          },
+          {
+            "id": "c4fcf87edaad2284",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372cf54124be1072",
+  "active": "0a0f3c768894416b",
   "lastOpenFiles": [
     "Лор/События/Резня в Намбрии.md",
     "Места/Таверна Красный Плющ.md",
