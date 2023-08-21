@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c26e282c9e04de1b",
+        "id": "4c838eac01304fad",
         "type": "tabs",
         "children": [
           {
-            "id": "225f66652c24c458",
+            "id": "372cf54124be1072",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Места/Таверна Красный Плющ.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Места/Таверна Красный Плющ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Места/Таверна Красный Плющ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Места/Таверна Красный Плющ.md"
+              }
             }
           },
           {
@@ -149,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "225f66652c24c458",
+  "active": "c4fcf87edaad2284",
   "lastOpenFiles": [
-    "Места/Таверна Красный Плющ.md",
+    "Галея.md",
+    "Git test.md",
     "Лор/События/Резня в Намбрии.md",
+    "Места/Таверна Красный Плющ.md",
     "NPC/Трактирщик Крамник по прозвищу Весельчак.md",
     "Хроника/Сессия 1 Восточное гостеприимство.md",
     "Лор/Архонт.md",
@@ -178,8 +185,6 @@
     "Лор/Организации/Традиция.md",
     "Места/Моррок.md",
     "Лор/Организации/Смеющиеся крысы.md",
-    "Лор/Организации/Дом тумана.md",
-    "NPC/Силван Даскснерл.md",
     "Места/Дарвос",
     "Лор/События",
     "Лор/Записи&Книги",
