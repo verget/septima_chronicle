@@ -37,7 +37,7 @@
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
-                "staged": true
+                "staged": false
               }
             }
           }
@@ -173,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4fcf87edaad2284",
+  "active": "30b2b17b064a2093",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Места/Таверна Красный Плющ.md",
+    "conflict-files-obsidian-git.md",
     "Галея.md",
     "Git test.md",
     "Лор/События/Резня в Намбрии.md",
