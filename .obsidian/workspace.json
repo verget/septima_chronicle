@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51dccbe503e77e1a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Места/Таверна Красный Плющ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Места/Таверна Красный Плющ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Места/Таверна Красный Плющ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4fcf87edaad2284",
+  "active": "51dccbe503e77e1a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Места/Таверна Красный Плющ.md",
     "Галея.md",
     "Git test.md",
     "Лор/События/Резня в Намбрии.md",
-    "Места/Таверна Красный Плющ.md",
     "NPC/Трактирщик Крамник по прозвищу Весельчак.md",
     "Хроника/Сессия 1 Восточное гостеприимство.md",
     "Лор/Архонт.md",
@@ -184,7 +193,6 @@
     "Лор/Организации/Орден Рэкета.md",
     "Лор/Организации/Традиция.md",
     "Места/Моррок.md",
-    "Лор/Организации/Смеющиеся крысы.md",
     "Места/Дарвос",
     "Лор/События",
     "Лор/Записи&Книги",
