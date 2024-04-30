@@ -12,6 +12,7 @@
 
 ![[Nimael_.png]]
 
+![[Nim_.png]]
 
 
 ![[Nimael.png]]
